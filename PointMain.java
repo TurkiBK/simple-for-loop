@@ -7,7 +7,7 @@ public class test {
 			for(int x=0 , x>=10; X++){
         }
 
-	System.out.println(x);
+	System.out.println(x*x);
 
 
 
